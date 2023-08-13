@@ -1,6 +1,6 @@
 # Phase 3 Capstone
 
-For Phase 3 of The Knowledge House Fellowship, I worked with a large team to **collaborate and develop a full-scale cloud based cybersecurity AWS training lab environment**, complete with application/tool resources for the 2023-2024 Cyber Fellowship. This allowed us to apply all learned skills and tools to design, develop, and deploy several deliverable solutions.
+For Phase 3 of The Knowledge House Fellowship, I worked with a large team to **collaborate and develop a full-scale cloud based cybersecurity AWS training lab environment**, complete with application/tool resources for the next TKH Cyber Fellowship. This allowed us to apply all learned skills and tools to design, develop, and deploy several deliverable solutions.
 
 - AWS Cloud Computing
 - Cybersecurity

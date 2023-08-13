@@ -30,4 +30,4 @@ The topics conveyed:
 - AWS Trusted Advisor
 - Amazon API Gateway
 
-# [Cybersecurity Training Range](https://github.com/orgs/cybertrainingrange/repositories) 
+# 🔗 [Cybersecurity Training Range](https://github.com/orgs/cybertrainingrange/repositories) 

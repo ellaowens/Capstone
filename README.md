@@ -1,4 +1,4 @@
-# Phase 3 Capstone 🔗 [Cybersecurity Training Range](https://github.com/orgs/cybertrainingrange/repositories) 
+# Phase 3 Capstone 🔗 [Cybersecurity Training Range](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/README.md) 
 
 For Phase 3 of The Knowledge House Fellowship, I worked with a large team to **collaborate and develop a full-scale cloud based cybersecurity AWS training lab environment**, complete with application/tool resources for the next TKH Cyber Fellowship. This allowed us to apply all learned skills and tools to design, develop, and deploy several deliverable solutions.
 
@@ -12,8 +12,8 @@ For Phase 3 of The Knowledge House Fellowship, I worked with a large team to **c
 - Python
 - Firewalls
 
-For each 2 week sprint we had a new topic to focus on. During the 6 sprints, I demonstrated my knowledge, skills, and abilities to plan
-design, configure, provision, secure, and deploy a high quality, feature-rich deliverable solution for a client. The idea of this training range was execute what a protential client would be looking for such as consultation and technical proficiency to design and launch a full-scale cloud native cybersecurity training range environment in AWS.
+For each 2 week sprint focused on a new topic. During the 6 sprints, I demonstrated my knowledge, skills, and abilities to plan
+design, configure, provision, secure, and deploy a high quality, feature-rich deliverable solution for a client. The idea of this training range was to execute what a protential client would be looking for, such as consultation and technical proficiency, to design and launch a full-scale cloud native cybersecurity training range environment in AWS.
 
 | Sprint | Description | Documentation|
 | --- | --- | --- |

@@ -18,7 +18,7 @@ design, configure, provision, secure, and deploy a high quality, feature-rich de
 | Sprint | Description | Documentation|
 | --- | --- | --- |
 | Sprint 1 | [Offensive Security - Red Team](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/Sprint1.md) | [Documentation](https://docs.google.com/document/d/1fCUtz3f2Hs_mVT0ssHRiIhxTLyKvkzgHi3-k49irTHY/edit) |
-| Sprint 2| [Defensive Security - Blue Team](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/Sprint2.md) | [Documentation](https://docs.google.com/document/d/1ufg-lL1YT5Pf72-AifzWMdgNiWTsxnkgHUhVdONpY-c/edit) |
+|Sprint 2| [Defensive Security - Blue Team](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/Sprint2.md) | [Documentation](https://docs.google.com/document/d/1ufg-lL1YT5Pf72-AifzWMdgNiWTsxnkgHUhVdONpY-c/edit) |
 | Sprint 3| [1 Linux / Networking Operations](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/Sprint3-teama.md) & [2 Linux/ Networking Operations](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/Sprint3-teamb.md) | [1 Documentation](https://docs.google.com/document/d/1dEt010KAPSTOcSzrZFoXH3yVfqiua8XQ9uxhl7OWpwU/edit) [2 Documentation](https://docs.google.com/document/d/12MrB4sbUnF1ZJhR_CbEm4uQhG_kIhjHG_TyX9EsS8Xg/edit) |
 | Sprint 4| [Monitoring and Traffic Analysis - SOC](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/Sprint4.md) | [Documentation](https://docs.google.com/document/d/1JYtjJIoogxSxhwCsEMSxx-QWECzdaHew/edit)
 | Sprint 5| [SIEM](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/Sprint5.md) | [Documentation](https://docs.google.com/document/d/1KWW-1bb8EUY5_da-S-0hzxSuGiNTW5dUOb-m2mxwjM4/edit)

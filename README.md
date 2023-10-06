@@ -1,19 +1,10 @@
 # Phase 3 Capstone 🔗 [Cybersecurity Training Range](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/README.md) 
 
-For Phase 3 of The Knowledge House Fellowship, I worked with a large team to **collaborate and develop a full-scale cloud based cybersecurity AWS training lab environment**, complete with application/tool resources for the next TKH Cyber Fellowship. This allowed us to apply all learned skills and tools to design, develop, and deploy several deliverable solutions.
+In Phase 3 of The Knowledge House Fellowship, I had the privilege of collaborating with a diverse and talented team to conceive and develop a comprehensive cloud-based cybersecurity AWS training lab environment. This lab was thoughtfully designed to provide essential resources and tools for the upcoming TKH Cybersecurity Fellowship, allowing us to leverage our collective expertise and apply a wide array of skills and technologies to create practical solutions.
 
-- AWS Cloud Computing
-- Cybersecurity
-- Networking
-- Linux
-- Docker Containers
-- Splunk
-- IDS/IPS
-- Python
-- Firewalls
+Our project spanned multiple domains, encompassing *AWS Cloud Computing, Cybersecurity, Networking, Linux, Docker Containers, Splunk, IDS/IPS, Python, and Firewalls*. Organized into six two-week sprints, we dedicated each sprint to a distinct aspect of our project. Throughout these sprints, I had the opportunity to showcase my proficiency in planning, designing, configuring, provisioning, securing, and deploying high-quality, feature-rich solutions for our client.
 
-For each 2 week sprint we focused on a new topic. During the 6 sprints, I demonstrated my knowledge, skills, and abilities to plan
-design, configure, provision, secure, and deploy a high quality, feature-rich deliverable solution for a client. The idea of this training range was to execute what a protential client would be looking for, such as consultation and technical proficiency, to design and launch a full-scale cloud native cybersecurity training range environment in AWS.
+The primary objective of our cybersecurity training range was to emulate the expectations of a potential client, demanding both consultation and technical expertise. Our aim was to successfully design and launch a comprehensive, cloud-native cybersecurity training range environment within AWS, effectively demonstrating our capabilities and dedication to meeting the client's needs. This project not only allowed us to apply our knowledge but also served as a testament to our commitment to excellence in the realm of cybersecurity.
 
 | Sprint | Description | Documentation|
 | --- | --- | --- |
